@@ -1,0 +1,248 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SP",
+        "nome": "São Paulo"
+      },
+      "id": "35",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PR",
+        "nome": "Paraná"
+      },
+      "id": "41",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SC",
+        "nome": "Santa Catarina"
+      },
+      "id": "42",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RS",
+        "nome": "Rio Grande do Sul"
+      },
+      "id": "43",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MS",
+        "nome": "Mato Grosso do Sul"
+      },
+      "id": "50",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RO",
+        "nome": "Rondônia"
+      },
+      "id": "11",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AC",
+        "nome": "Acre"
+      },
+      "id": "12",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AM",
+        "nome": "Amazonas"
+      },
+      "id": "13",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RR",
+        "nome": "Roraima"
+      },
+      "id": "14",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PA",
+        "nome": "Pará"
+      },
+      "id": "15",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AP",
+        "nome": "Amapá"
+      },
+      "id": "16",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "TO",
+        "nome": "Tocantins"
+      },
+      "id": "17",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MA",
+        "nome": "Maranhão"
+      },
+      "id": "21",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RN",
+        "nome": "Rio Grande do Norte"
+      },
+      "id": "24",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PB",
+        "nome": "Paraíba"
+      },
+      "id": "25",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PE",
+        "nome": "Pernambuco"
+      },
+      "id": "26",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "AL",
+        "nome": "Alagoas"
+      },
+      "id": "27",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "SE",
+        "nome": "Sergipe"
+      },
+      "id": "28",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "BA",
+        "nome": "Bahia"
+      },
+      "id": "29",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MG",
+        "nome": "Minas Gerais"
+      },
+      "id": "31",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "RJ",
+        "nome": "Rio de Janeiro"
+      },
+      "id": "33",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "MT",
+        "nome": "Mato Grosso"
+      },
+      "id": "51",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "GO",
+        "nome": "Goiás"
+      },
+      "id": "52",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "DF",
+        "nome": "Distrito Federal"
+      },
+      "id": "53",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "PI",
+        "nome": "Piauí"
+      },
+      "id": "22",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "CE",
+        "nome": "Ceará"
+      },
+      "id": "23",
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "sigla": "ES",
+        "nome": "Espírito Santo"
+      },
+      "id": "32",
+      "geometry": null
+    }
+  ]
+}
